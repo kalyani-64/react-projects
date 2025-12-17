@@ -26,3 +26,4 @@ step-4:select javascript
 step-5:after that run 'npm run dev' in the terminal
 It will give the link which shows the output of the file
 (copy the src files)
+Node.js need to be installed 
